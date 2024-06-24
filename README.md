@@ -6,7 +6,7 @@ Please refer to the next link for all the tutorials and excersices: [SQL zoo](ht
 
 [2. SUM and COUNT](https://github.com/aledominique/sqlzoo_exercises/edit/main/SUM%20and%20COUNT.md)
 
-[JOIN](https://github.com/aledominique/sqlzoo_exercises/blob/main/JOIN%20operation.md)
+[3. JOIN](https://github.com/aledominique/sqlzoo_exercises/blob/main/JOIN%20operation.md)
 #### 4. More JOIN
 #### 5. Using NULL
 #### 6. Self JOIN
