@@ -9,4 +9,5 @@ Please refer to the next link for all the tutorials and excersices: [SQL zoo](ht
 [3. JOIN](https://github.com/aledominique/sqlzoo_exercises/blob/main/JOIN%20operation.md)
 #### 4. More JOIN
 [5. Using NULL](https://github.com/aledominique/sqlzoo_exercises/blob/main/Using%20Null.md)
-#### 6. Self JOIN
+
+[6. Self JOIN](https://github.com/aledominique/sqlzoo_exercises/blob/main/Self%20Join.md)
